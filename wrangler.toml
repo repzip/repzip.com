@@ -1,0 +1,10 @@
+name = "repzip-com"
+type = "webpack"
+account_id = "a59b6a56608e1a8ac105e8664b0ad55f"
+workers_dev = false
+route = "repzip.com/*"
+zone_id = "37e5a51c5d58df534c74877e2170801f"
+
+[site]
+bucket = "./"
+entry-point = "workers-site"
